@@ -5,11 +5,8 @@
   <title>Online Grocery</title>
 </head>
 
-<body>
-  <style>
-div { background-image: url('pamban.jpg');}
-</style>
-<div>
+<body style="background-color:yellow;">
+
   <h1 style="color:Tomato;">Welcome to Mallikarjun Grocery Kart</h1>
   <h2>Main/Imp Ingredients on this Web-site:</h2>
   <img src="pamban.jpg" alt="Pamban Bridge">  
@@ -18,7 +15,7 @@ div { background-image: url('pamban.jpg');}
   <p>Style Sheets (CSS)</p>
   <p>Computer Code (JavaScript)</p>
   <p>Live Data (Files and Databases)</p>
-</div>
+
 <form action="action_page.php" method="post">
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
